@@ -1,7 +1,7 @@
-package com.baixing.Service;
+package com.baixing.service;
 
-import com.baixing.Dao.AppDao;
-import com.baixing.Dao.ItemDao;
+import com.baixing.dao.AppDao;
+import com.baixing.dao.ItemDao;
 import com.baixing.entity.po.App;
 import com.baixing.entity.po.Item;
 import com.baixing.entity.req.CreateItemReq;

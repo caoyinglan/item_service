@@ -1,4 +1,4 @@
-package com.baixing.Dao;
+package com.baixing.dao;
 
 import com.baixing.entity.po.App;
 import org.springframework.data.jpa.repository.JpaRepository;

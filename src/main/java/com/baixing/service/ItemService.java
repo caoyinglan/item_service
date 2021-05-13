@@ -1,4 +1,4 @@
-package com.baixing.Service;
+package com.baixing.service;
 
 import com.baixing.entity.req.CreateItemReq;
 import com.baixing.entity.req.ReQueryReq;

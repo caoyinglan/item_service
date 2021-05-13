@@ -1,7 +1,7 @@
-package com.baixing.Controller;
+package com.baixing.controller;
 
 
-import com.baixing.Service.ItemService;
+import com.baixing.service.ItemService;
 import com.baixing.entity.req.CreateItemReq;
 import com.baixing.entity.req.ReQueryReq;
 import com.baixing.entity.req.UpdateItemReq;
